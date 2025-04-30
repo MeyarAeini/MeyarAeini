@@ -1,4 +1,4 @@
-## Hi, I'm Meyar 👋
+- 👋 Hi, I'm Meyar
 - 🔭 I’m currently exploring rust.
 - 🌱 I’m currently learning web3 & fuel.
 
