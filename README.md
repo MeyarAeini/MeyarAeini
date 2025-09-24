@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Meyar
 - 🔭 I’m currently exploring rust.
-- 🌱 I’m currently learning web3 & fuel.
 
 <!--
 **MeyarAeini/MeyarAeini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
